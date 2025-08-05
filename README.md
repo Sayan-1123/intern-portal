@@ -1,78 +1,63 @@
-h1 align="center">🌟 Intern Portal 🌟</h1>
+# 🚀 Full Stack Intern Portal
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/github/license/Sayan-1123/intern-portal?style=flat-square"/>
-</p>
-
-<p align="center">
-  🚀 A Full Stack Intern Dashboard built as part of a Web Development Internship Assignment.<br/>
-  🎯 Showcases Intern details, Referral Code, Donations Raised & Rewards.
-</p>
+Welcome to the **Intern Dashboard Portal** – a full-stack web app built as part of a Web Development Internship Assignment. This portal helps interns track referrals, donations, rewards, and leaderboard status.
 
 ---
 
-## 🔥 Features
+## 🌐 Live Demo
 
-- ✅ Dummy login/signup page (no authentication)
-- 📄 Dashboard with:
-  - Intern name
-  - Dummy referral code (e.g., sayan2025)
-  - Total donations raised (static from backend)
-  - Static rewards/unlockables section
-- 🏆 Bonus: Leaderboard (optional/static)
-- 🌐 Hosted Full Stack App (Frontend + Backend)
+- 🔗 [Frontend](https://intern-portal-frontend.vercel.app/)
+- 🔗 [Backend](https://intern-portal-1-1e7i.onrender.com/)
+- 📁 [GitHub Repository](https://github.com/Sayan-1123/intern-portal)
 
 ---
 
-## 🧰 Tech Stack
+## 📸 Screenshots
 
-| Layer      | Technology              |
-|------------|--------------------------|
-| Frontend   | React.js, HTML, CSS      |
-| Backend    | Node.js, Express.js      |
-| Database   | Static JSON (no DB used) |
-| Hosting    | Vercel (Frontend), Render (Backend) |
+### 🖥️ Dashboard View
+
+![Dashboard Screenshot](https://user-images.githubusercontent.com/your-username/your-dashboard-image.png)
+
+### 📋 Login Page
+
+![Login Screenshot](https://user-images.githubusercontent.com/your-username/your-login-image.png)
+
+> 📌 Replace image URLs with actual uploaded screenshots in your GitHub repo (via **Issues** or **direct repo upload**).
 
 ---
 
+## 🛠️ Tech Stack
 
+**Frontend:**
+- React.js
+- HTML, CSS, JavaScript
+- Hosted on Vercel
 
-## 🚀 Getting Started (Local Setup)
+**Backend:**
+- Node.js + Express
+- Dummy data-based API
+- Hosted on Render
 
-Follow these steps to run the project locally:
+---
 
-### 1️⃣ Clone the Repository
+## 🧑‍💻 Features
+
+- 🔐 Intern Login/Signup
+- 📊 Dashboard showing:
+  - Intern Name
+  - Referral Code
+  - Total Donations
+  - Static Rewards
+- 🏆 Optional Leaderboard Page
+- 🔁 Dummy backend integration
+- 📱 Fully responsive
+
+---
+
+## ⚙️ Setup Instructions
+
+### 🔽 Clone the repo
 
 ```bash
 git clone https://github.com/Sayan-1123/intern-portal.git
 cd intern-portal
-
-2️⃣ Run the Backend
-
-cd backend
-npm install
-node server.js
-
-The backend will run at: http://localhost:10000
-3️⃣ Run the Frontend
-
-Open a new terminal:
-
-cd ../frontend
-npm install
-npm start
-
-The frontend will run at: http://localhost:3000
-🌐 Live Project Links
-
-    🔗 Frontend: https://intern-portal-frontend.vercel.app/
-
-    🔗 Backend: https://intern-portal-1-1e7i.onrender.com/
-
-    📁 GitHub Repository: https://github.com/Sayan-1123/intern-portal
-
-⭐ Support
-
-If you found this project helpful or interesting, feel free to give it a ⭐ and share it with your friends!
-<p align="center">Made with ❤️ by <strong>Sayan</strong></p> ```
