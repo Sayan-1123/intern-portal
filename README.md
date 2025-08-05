@@ -13,16 +13,10 @@ Welcome to the **Intern Dashboard Portal** – a full-stack web app built as par
 ---
 
 ## 📸 Screenshots
+## 📄 Issue Links with Screenshots
 
-### 🖥️ Dashboard View
-
-![Dashboard Screenshot](https://user-images.githubusercontent.com/your-username/your-dashboard-image.png)
-
-### 📋 Login Page
-
-![Login Screenshot](https://user-images.githubusercontent.com/your-username/your-login-image.png)
-
-> 📌 Replace image URLs with actual uploaded screenshots in your GitHub repo (via **Issues** or **direct repo upload**).
+- 🔐 [Login Page Screenshot and Description](https://github.com/Sayan-1123/intern-portal/issues/2#issue-3294037954)
+- 📊 [Dashboard Screenshot and Details](https://github.com/Sayan-1123/intern-portal/issues/3#issue-3294042056)
 
 ---
 
